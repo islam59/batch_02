@@ -1,0 +1,120 @@
+*{ margin:0px;  padding:0px;  }
+.clearfix{  clear:both;  }
+
+/*header style..............*/
+.header{
+	background:#01B0F1; 
+	width:80%; 
+	margin:0px auto; 
+}
+
+.header .box{
+	width:50%; 
+	float:left; 
+}
+.header .box-left{ }
+.header .box-right{
+	text-align:right;
+}
+.header .box-right .contact-info{
+	margin-top:25px;
+	font-size:18px; 
+	padding:2%;
+	color:white; 
+	font-weight:Bold; 
+}
+.header .logo{
+	width:20%; 
+	border:1px solid white; 
+	margin:2%;
+	border-radius:50px; 
+	background:yellow; 
+}
+
+/*navigatin style...*/
+.navigation{
+	background:#012060 ; 
+	height:30px; 	width:80%; 
+	margin:0px auto; 
+	color:white; 
+}
+
+/*navigatin style...*/
+.content{
+	background:lightgreen; width:80%; 
+	margin:0px auto; 
+}
+.box1{
+	width:20%; 
+	background:#F8CBAC; 
+	height:400px; 
+	float:left; 
+}
+.box2{
+	width:60%; 
+	height:400px; 
+	background:#FFFDFA; 	
+	float:left; 
+}
+.profile{
+	text-align:center; 	
+}
+.profile-img{
+		box-shadow:0px 0px 10px black;
+	width:60%;
+	height:60%;
+	margin:2%;
+	border:1px solid orange;
+	border-radius:50%;
+	background:lightgreen; 
+}
+.box1 h3 small{
+	color:#A6A699; 
+}
+.maps{
+	margin:30px auto;
+	width:90%;
+	box-shadow:0px 0px 10px black;
+}
+
+
+.box-top{
+	background:#A6A6A6; 
+	margin:2%;
+	height:250px; 
+}
+.box-bottom{
+	margin:1%;
+}
+.minibox{
+	background:#A6A6A6;
+	background:#A6A6A6;
+	margin:1%; 
+	width:31.33%;
+	height:110px;
+	float:left; 
+}
+.minibox-left{
+	background:#A6A6A6;
+	height:100px;
+	margin:4% 6%;
+}
+.big{ 
+	background:#A6A6A6;
+	height:160px;
+	margin:4% 6%;
+}
+
+.footer{
+	background:#01B0F1; 
+	width:80%; 
+	margin:0px auto; 
+	height:80px; 
+}
+
+
+
+
+
+
+

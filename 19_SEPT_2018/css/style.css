@@ -1,0 +1,99 @@
+body{
+	background:#222222;
+}
+.menu-color{
+	background:#4B98A5;
+	border:0px; 
+	border-radius:0;
+	margin-bottom:0px;
+}
+.m-item{
+		color:white; 
+}
+
+.banner-overley{
+	background:white; 
+}
+
+.banner{
+	height:400px; 
+}
+.overley{
+	height:400px; 
+	background-color:rgba(0,0,0,0.4);
+		margin-top:-400px; 
+		position:relative; 
+}
+
+.overley-content{
+	color:white; 
+	text-align:center; 
+	padding-top:100px; 
+
+}
+
+.overley-content p{
+	font-size:3em; 
+	font-weight:bold; 
+}
+.btn-trans{
+	font-size:2em; 
+	font-weight:bold; 
+	background:none; 
+	border:2px solid white; 
+}
+
+
+.about-section{
+	background:#FFFFFF; 	
+	min-height:400px; 
+}
+.about-section p{
+	text-align:center; 
+	padding-top:80px; 
+}
+.about-section p span{
+	font-size:2em; 	
+	font-weight:Bold; 
+}
+.icon-box{
+	text-align:center; 
+	margin-top:30px;
+	font-size:3em; 
+}
+
+.profile-section{
+	min-height: 400px; 
+	background-color:#00D18A;
+	padding-top:8%;
+}
+.profile-image{
+	box-shadow:0px 0px 10px black; 
+	background:#d0d0d0;
+	padding:5%;
+}
+.profile-name{
+	color:#d0d0d0; 
+	font-size:3em; 
+	text-transform:uppercase; 
+	font-weight:bold; 
+}
+
+.sign-image{
+	margin-top:-10%;
+	opacity:0.3;
+}
+
+.profile-para{
+	font-size:1.3em; 
+	color:white; 
+	padding:3%;
+	
+}
+
+
+
+
+
+
+
